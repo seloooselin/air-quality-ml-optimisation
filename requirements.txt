@@ -1,0 +1,8 @@
+# Minimal unpinned imports; not a recovered or tested environment lock.
+# Historical clues: Python 3.11.7; fitted artifact records scikit-learn 1.2.2.
+numpy
+pandas
+openpyxl
+matplotlib
+scikit-learn
+notebook

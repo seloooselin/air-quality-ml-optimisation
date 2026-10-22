@@ -1,0 +1,27 @@
+# Local data, predictions and fitted artifacts
+*.xlsx
+*.xls
+*.parquet
+*.jsonl
+*.npy
+*.npz
+*.sav
+*.pkl
+*.pickle
+*.joblib
+*.csv
+!results/recorded_metrics.csv
+# Data folder stays documentation-only
+data/*
+!data/README.md
+# Source packages, reports and temporary files
+*.zip
+*.pdf
+*.docx
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.DS_Store
